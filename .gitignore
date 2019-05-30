@@ -7,3 +7,9 @@
 # Jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
